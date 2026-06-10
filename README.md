@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: tba
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I taught myself to code when I was 10 using a Radio Shack TRS-80 computer and a really cool book on how to program in BASIC. 
-
+<!-- to add an image 
 !an AI generated picture of me as a gamer with a rainbow striped shirt(assets/img.jpg)
+-->
